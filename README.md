@@ -41,7 +41,7 @@
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Agences de marketing,Studios de création audiovisuelle et Startups.
-- Exemple d'entreprise : Le studio de création visuelle (Basalte) <img width="4320" height="2160" alt="1000077005" src="https://github.com/user-attachments/assets/7f2b5fa9-dd18-4a1e-ab5a-8fc7269e2f09" />
+- Exemple d'entreprise : Le studio de création visuelle (Basalte) ![Logo BASALTE](https://github.com/user-attachments/assets/7f2b5fa9-dd18-4a1e-ab5a-8fc7269e2f09)
 
 
 ![Nom de l'entreprise](entreprise.jpg)
