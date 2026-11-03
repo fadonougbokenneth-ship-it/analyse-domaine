@@ -49,9 +49,22 @@
 (source de l'image : ...)
 
 - Types de produits et de services : Contenu audiovisuel et Art numérique
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+
+- Étapes de production :
+- 1. Idéation / recherche
+- Idée : créer une pochette d'album originale et attrayante.
+- Concept : choisir un style visuel, des couleurs et une ambiance.
+- Clientèle : des artistes musicaux, particulièrement dans le rap et le R&B.
+2. Préproduction
+Faire des croquis, chercher des inspirations et créer un moodboard pour planifier la pochette.
+3. Production
+Créer la pochette à l'aide de logiciels comme Photoshop et Illustrator.
+4. Postproduction
+Retoucher l'image, ajuster les couleurs et corriger les derniers détails.
+5. Opération
+Livrer la pochette à l'artiste et l'adapter aux différentes plateformes musicales.
+- Type d'emploi visé : graphiste
+- Étapes pour obtenir cet emploi :Terminer ma technique d'intégration multimédia ,Faire preuve de discipline durant ma technique pour acquérir de l'expérience.
 
 ## Conclusion
 
